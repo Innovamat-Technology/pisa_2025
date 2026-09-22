@@ -1,0 +1,4 @@
+# The per-cycle extracts of the OECD public-use files are stored with Git LFS (see data/README.md)
+data/extract/*.parquet filter=lfs diff=lfs merge=lfs -text
+data/extract/*.npy filter=lfs diff=lfs merge=lfs -text
+data/extract/*.npz filter=lfs diff=lfs merge=lfs -text

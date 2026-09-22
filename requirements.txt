@@ -1,0 +1,6 @@
+numpy
+pandas>=2.2
+scipy
+matplotlib
+pyreadstat
+pyarrow
