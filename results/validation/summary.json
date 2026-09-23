@@ -1,0 +1,10 @@
+{
+  "compared_utc": "2026-09-23T10:08:38Z",
+  "python_tables": 63,
+  "table_protocol_pairs": 87,
+  "complete_table_coverage": true,
+  "numeric_column_comparisons": 732,
+  "missing_value_mismatches": 0,
+  "individual_scores_compared": true,
+  "interpretation": "Coverage checks structure, not numerical equivalence. Current defaults differ methodologically; the R legacy paper protocol is historical. See the root README."
+}

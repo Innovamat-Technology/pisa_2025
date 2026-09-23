@@ -12,7 +12,7 @@ A subset of the PISA student questionnaire public-use files, cut down to what th
 
 Rows: students of OECD member systems only (`OECD == 1`). Values: as released, with the SPSS user-missing codes (valid skip, not applicable, invalid, no response) set to missing. Variable names are lower-cased; in 2015 and 2018 `PARED` is renamed `pared_published` and `ST013Q01TA` is renamed `books6`. Nothing else is recoded at this stage.
 
-The extract is produced by `scripts/01_extract.py`. Anyone who prefers to start from the original files can download them (below), place them in `data/raw/` and run the same script; the rest of the pipeline is unchanged.
+The extract is produced by `code/python/scripts/01_extract.py`. Anyone who prefers to start from the original files can download them (below), place them in `data/raw/` and run the same script; the rest of the pipeline is unchanged.
 
 ## Source and attribution
 
@@ -41,4 +41,4 @@ Every cycle: `CNT`, `CNTSCHID`, `CNTSTUID`, `W_FSTUWT`, `PV1MATH`–`PV10MATH`, 
 
 ## Not in the repository
 
-`data/raw/` (the original `.sav` files, about 2 GB each) and `data/interim/` (tables rebuilt on every run) are ignored by git.
+`data/raw/` (the original `.sav` files, about 2 GB each) and `data/interim/python/` and `data/interim/r/` (working data and caches rebuilt by each implementation) are ignored by git.

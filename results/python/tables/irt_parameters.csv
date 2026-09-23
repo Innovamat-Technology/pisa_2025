@@ -1,0 +1,17 @@
+item,label,a,steps
+ST250Q01JA,A room of your own,0.871,[-2.395]
+ST250Q02JA,Computer for schoolwork,1.545,[-2.027]
+ST250Q03JA,Educational software,0.855,[-1.55]
+ST250Q04JA,Own phone with internet,1.266,[-3.641]
+ST250Q05JA,Internet access,1.442,[-2.965]
+ST251Q01JA,Cars,0.738,"[-2.015, -0.348, 1.377]"
+ST251Q03JA,Bathrooms,1.465,"[-2.625, 0.27, 1.655]"
+ST251Q04JA,Flush toilets,1.358,"[-2.426, -0.178, 1.293]"
+ST251Q06JA,Musical instruments,0.438,"[0.799, 1.451, -0.171]"
+ST251Q07JA,Works of art,0.44,"[1.614, 0.283, -3.165]"
+ST254Q01JA,Televisions,0.638,"[-5.526, 0.709, 3.537]"
+ST254Q02JA,Desktop computers,0.725,"[-0.804, 2.609, 3.423]"
+ST254Q03JA,Laptops,1.285,"[-1.953, 0.582, 2.369]"
+ST254Q04JA,Tablets,0.792,"[-1.144, 1.914, 2.824]"
+ST254Q05JA,E-book readers,0.653,"[2.125, 3.944, 3.113]"
+ST255Q01JA,Books at home (number),0.344,"[-3.891, -0.555, -1.631, 1.92, 1.288, 2.745]"
