@@ -1,0 +1,19 @@
+{
+  "all_checks_passed": true,
+  "country_cycles": 27,
+  "level_rows": 432,
+  "matched_recent_level_rows": 112,
+  "recent_max_abs_estimate_difference": 5.684341886080802e-14,
+  "max_quartile_weight_deviation_pp": 0.04757910666380738,
+  "official_max_abs_estimate_difference_by_cycle": {
+    "2015": 0.13494985493952072,
+    "2018": 0.1347072627460193,
+    "2022": 0.14552603248910145,
+    "2025": 0.7892184921332159
+  },
+  "gap_rows": 108,
+  "no_between_cycle_change_statistics": true,
+  "matched_recent_gap_rows": 28,
+  "recent_gap_max_abs_se_difference": 1.7763568394002505e-15,
+  "argentina_2015_excluded": true
+}

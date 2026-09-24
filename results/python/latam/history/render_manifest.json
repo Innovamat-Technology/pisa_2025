@@ -1,0 +1,20 @@
+{
+  "generated_utc": "2026-09-24T06:12:49.617657+00:00",
+  "language": "ca",
+  "rendering_script_sha256": "55896bfbc4fa338869c759307b3d599406826246ade942dcb642632873d137e2",
+  "numerical_inputs": {
+    "levels_math.csv": "5291df164be71bd6f3652628c77fa1868e2c2a208136e41df8cd9e5caab4c048",
+    "overall_math.csv": "2f0ed851e83fa2deca27563ed760258a9e3d208244512faefbbe912992cd7933",
+    "coverage.csv": "8112b76e6b55d42103bc41247a37526d59447292ff0f2ad00e891e3d74711d00",
+    "quartile_checks.csv": "97d7b3b22891e36c9be0f904bed30b87374730e53dc5c2392b1827e37f951229",
+    "availability.csv": "8ea0029d13ab70c4b23e016f9c71cabe808ae7d7569fdaa2734a5682c3cbf058",
+    "latest_validation.csv": "d6d3f6fb9adfcb816fd58b9055c5f3b07b2cad15378d2579836463d6ff5dcc82",
+    "official_comparison.csv": "9cf8a5a2e3dcc3654e98e3a2e6b01f57c592ab2f1d257eb058f1d4beae520b4b",
+    "levels_wide_math.csv": "59dc849f77730a828c1bcbb5ff0f3835bb44f1e8d2a9a8adf8b33d873062eadd",
+    "gaps_math.csv": "3aa15a56c86700f42b5d55d3bb8ef7536b34894ae553d8679615f951bea5c355",
+    "irt_parameters.csv": "11d44a166214082f722ea377c0e528fcc2441c7250ca8dc3c0ad2bd89e359f09",
+    "gap_series_math.csv": "042a9798b7b1ad2abdfec7f65109d357ba585a66346970a5f5aba6b8b49126b8",
+    "latest_gap_validation.csv": "2dc3a91b7a7d18d3b138f6d5b5eaed6b338616c4a067e303d40a3cad969bb047"
+  },
+  "estimates_recomputed": false
+}

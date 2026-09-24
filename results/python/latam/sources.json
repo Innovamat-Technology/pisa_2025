@@ -1,0 +1,76 @@
+{
+  "generated_utc": "2026-09-23T19:43:49.153497+00:00",
+  "countries": [
+    "ARG",
+    "BRA",
+    "CHL",
+    "COL",
+    "MEX",
+    "PER",
+    "URY"
+  ],
+  "selection": "User-confirmed original six countries, extended with Peru.",
+  "cycles": [
+    2022,
+    2025
+  ],
+  "domain": "math",
+  "raw_files": {
+    "2022": {
+      "file": "CY08MSP_STU_QQQ.SAV",
+      "bytes": 2096666903,
+      "sha256": "9e4eddacd25e10c145f7bfe817fc99a5b8df544536e5ea1dfd7230c988916a8c",
+      "countries": [
+        "ARG",
+        "BRA",
+        "CHL",
+        "COL",
+        "MEX",
+        "PER",
+        "URY"
+      ],
+      "source": "https://www.oecd.org/en/data/datasets/pisa-2022-database.html"
+    },
+    "2025": {
+      "file": "CY09_MS_STU_PUF.sav",
+      "bytes": 2168666883,
+      "sha256": "6f6fa1e1ecce23d39183d44ec82ba05b245fe88a2416c8d8dc1b016d556fc379",
+      "countries": [
+        "ARG",
+        "BRA",
+        "CHL",
+        "COL",
+        "MEX",
+        "PER",
+        "URY"
+      ],
+      "source": "https://www.oecd.org/en/data/datasets/pisa-2025-database.html"
+    }
+  },
+  "urls": {
+    "2022": "https://www.oecd.org/en/data/datasets/pisa-2022-database.html",
+    "2025": "https://www.oecd.org/en/data/datasets/pisa-2025-database.html",
+    "participants": "https://www.oecd.org/en/about/programmes/pisa/pisa-participants.html",
+    "equity_tables": "https://stat.link/k68msa"
+  },
+  "calibration_countries": [
+    "ARG",
+    "BRA",
+    "CHL",
+    "COL",
+    "MEX",
+    "PER",
+    "URY"
+  ],
+  "calibration": "Only countries present in both cycles; equal weight per country-cycle. One-cycle countries scored on that fixed scale.",
+  "international_variance": "Sum independent national covariance matrices divided by n_systems squared",
+  "link_se": 1.22,
+  "quartile_seed": 7,
+  "imputation_seed": 20252022,
+  "imputed_pct": 13.303233149138178,
+  "python": "3.14.7",
+  "numpy": "2.5.3",
+  "pandas": "3.0.6",
+  "script_sha256": "5ddcd3e6cfe3204d5d8f6e46b402f237b2461a685d6bc60b83f732fbdc5cbe4b",
+  "equity_workbook_sha256": "ef9a6a1e36597f44124892831d9816bc21018bef948c43e76984e153fbd3ae1a"
+}

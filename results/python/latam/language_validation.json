@@ -1,0 +1,50 @@
+{
+  "all_checks_passed": true,
+  "workbooks": [
+    {
+      "scope": "2022-2025",
+      "language": "ca",
+      "tables_verified": 12,
+      "numeric_cells_verified": 23826,
+      "figures_verified": 4
+    },
+    {
+      "scope": "2022-2025",
+      "language": "es",
+      "tables_verified": 12,
+      "numeric_cells_verified": 23826,
+      "figures_verified": 4
+    },
+    {
+      "scope": "2022-2025",
+      "language": "en",
+      "tables_verified": 12,
+      "numeric_cells_verified": 23826,
+      "figures_verified": 4
+    },
+    {
+      "scope": "2015-2025",
+      "language": "ca",
+      "tables_verified": 12,
+      "numeric_cells_verified": 8187,
+      "figures_verified": 3
+    },
+    {
+      "scope": "2015-2025",
+      "language": "es",
+      "tables_verified": 12,
+      "numeric_cells_verified": 8187,
+      "figures_verified": 3
+    },
+    {
+      "scope": "2015-2025",
+      "language": "en",
+      "tables_verified": 12,
+      "numeric_cells_verified": 8187,
+      "figures_verified": 3
+    }
+  ],
+  "source_csv_unchanged_during_rendering": true,
+  "local_report_links_valid": true,
+  "historical_script_fingerprint_verified": true
+}

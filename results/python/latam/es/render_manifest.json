@@ -1,0 +1,20 @@
+{
+  "generated_utc": "2026-09-24T06:12:45.243291+00:00",
+  "language": "es",
+  "rendering_script_sha256": "55896bfbc4fa338869c759307b3d599406826246ade942dcb642632873d137e2",
+  "numerical_inputs": {
+    "quartile_levels_math.csv": "0cd394162b5fa0978611e8ac4a112b9589297597c631dde561b372276e887b7d",
+    "quartile_changes_math.csv": "d4e62828ae2ab13a0c7a982f170134e30d9e792f4e9300fbd0c65cc0bf5f339c",
+    "quartiles_math.csv": "59609d079f4efa714c986f6ab2ff03a1ed0f275be5e00c0fbbb3254d3c9df019",
+    "coverage.csv": "05b33193aaf25479482f89606d123e1ad1f07a214949e191c09e7fad546c6d1d",
+    "quartile_check_math.csv": "38526cbee37694cd6a936f344c93fef50ce88f1311833c3eba138ccd0b94355b",
+    "overall_math.csv": "2613598d4a42485b43bb04f65ad19ff5cdba884be8c251f450220c038536e596",
+    "harmonisation_effect_math.csv": "bcdf65e92fdc64ffe82dedbccaa6e8617a69e4497dd093a2ace3c490d606dbc3",
+    "irt_parameters.csv": "8e64edb55b7e24cb223cc01d0cbc86f870e72f8de883482eda80180ebe689bcf",
+    "existing_python_comparison.csv": "4effc0b73433873b4d9a337476d433da03979ba112761eba14363a99edf8cd00",
+    "official_comparison.csv": "db7139535b64193c82a945281487c82cf7fc1c55be2ac46e8d3da918102b629f",
+    "gap_summary_math.csv": "5254e58e05cbd65ce6631ae9f0cdabc10b171c4b227337fab24f3f81386bafa0",
+    "country_availability.csv": "81859754971d7f416edcf18285ca307153b00898b2257d7857b5010fd7bbe157"
+  },
+  "estimates_recomputed": false
+}

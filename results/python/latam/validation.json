@@ -1,0 +1,14 @@
+{
+  "max_quartile_weight_deviation_pp": 0.04757910666380738,
+  "min_quartile_n": 1028,
+  "existing_comparison_cells": 240,
+  "existing_max_abs_difference": 2.3447910280083306e-13,
+  "official_max_abs_estimate_difference": 0.7892228783210036,
+  "official_max_abs_se_difference": 0.09223860978630283,
+  "total_students": 133554,
+  "all_checks_passed": true,
+  "aggregate_checks": 100,
+  "countries_requested": 7,
+  "countries_in_trend": 7,
+  "unavailable_country_cycles": []
+}

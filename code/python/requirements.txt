@@ -1,11 +1,13 @@
 # Versions recorded from the analysis environment on 2026-09-23.
 contourpy==1.4.0
 cycler==0.12.1
+et_xmlfile==2.0.0
 fonttools==4.65.0
 kiwisolver==1.5.1
 matplotlib==3.11.2
 narwhals==2.26.0
 numpy==2.5.3
+openpyxl==3.1.5
 packaging==26.3
 pandas==3.0.6
 pillow==12.3.0
